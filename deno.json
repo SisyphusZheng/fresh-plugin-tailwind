@@ -1,5 +1,5 @@
 {
-  "name": "@fresh/plugin-tailwind",
+  "name": "@freshpress/fresh-plugin-tailwind",
   "version": "0.0.1-alpha.8",
   "license": "MIT",
   "exports": "./src/mod.ts",
