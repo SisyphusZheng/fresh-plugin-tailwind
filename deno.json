@@ -1,0 +1,12 @@
+{
+  "name": "@fresh/plugin-tailwind",
+  "version": "0.0.1-alpha.8",
+  "license": "MIT",
+  "exports": "./src/mod.ts",
+  "imports": {
+    "fresh": "jsr:@fresh/core@^2.0.0-alpha.34",
+    "@tailwindcss/oxide": "npm:@tailwindcss/oxide@4.1.7",
+    "@tailwindcss/postcss": "npm:@tailwindcss/postcss@^4.1.7",
+    "postcss": "npm:postcss@^8.5.3"
+  }
+}
